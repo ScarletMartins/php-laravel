@@ -1,6 +1,7 @@
 <?php
 
 //DOCUMENTAÇAO -  https://www.php.net/docs.php
+//Níveis de erro - https://www.php.net/manual/en/errorfunc.constants.php
 
 //PHP é uma linguagem dinamicamente tipada. Descobre o tipo de dados pelo seu valor.
 //Quando usado aspas simples, o PHP entende que dentro tem apenas texto, sem necessidade de interpretaçao
