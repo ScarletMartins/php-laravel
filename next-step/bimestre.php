@@ -40,6 +40,18 @@ array_flip();
 //une o valor de um ou mais arrays
 array_merge();
 
+//recebe um array de referencia(onde adc elementos) e recebe elementos que devem ser adicionados
+array_push();
+
+//adiciona elementos no início do array
+array_unshift();
+
+//remove e retorna o primeiro elemento do array
+array_shift();
+
+//remove e retorna o último elemento do array
+array_pop();
+
 //com arryas o operador '+' é um operador de união
 //com chaves numericas nao sobrepoe valor, mantendo o primeiro 
 
