@@ -16,7 +16,9 @@ $texto = "Olá mundo!";
 $acompanhado = 1;
 
 
-//echo gettype($variavel); busca a tipagem da váriavel
+// gettype() busca a tipagem da váriavel
+// is_array() verifica se a variavel é um array
+// array_is_list() retorna true se o array for numerico, com indice iniciado em 0 e sequencial 
 
 //echo 'Olá mundo, minha idade é ' . $idade . ' anos'; //o . faz a concatenação com aspas simples
 //echo "Olá mundo. \n\tEu tenho $idade anos"; //aspas duplas nao precisa de concatenador, apenas a menção a variavel
